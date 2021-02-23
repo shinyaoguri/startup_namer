@@ -1,6 +1,7 @@
 # startup_namer
 
-A new Flutter project.
+30 Days of Flutterの[Week1](https://events.withgoogle.com/30-daysofflutter/week-01-content/#content)で作成したアプリ
+
 
 ## Getting Started
 

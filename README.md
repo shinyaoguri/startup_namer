@@ -2,6 +2,8 @@
 
 30 Days of Flutterの[Week1](https://events.withgoogle.com/30-daysofflutter/week-01-content/#content)で作成したアプリ
 
+## 動作画面
+[![Image from Gyazo](https://i.gyazo.com/837fbefd21eea8089dc014e5117c9515.gif)](https://gyazo.com/837fbefd21eea8089dc014e5117c9515)
 
 ## Getting Started
 
